@@ -1,0 +1,4 @@
+.DS_Store
+/day02/node_modules/
+/dist/
+/day04/node_modules/
